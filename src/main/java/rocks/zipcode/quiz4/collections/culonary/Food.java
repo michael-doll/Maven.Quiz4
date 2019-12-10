@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * @author leon on 27/12/2018.
  */
-public class Food {
+public class Food implements Spice{
     public List<Spice> getAllSpices() {
         return null;
     }
